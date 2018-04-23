@@ -54,7 +54,7 @@ $ docker run --rm debian:stretch sh -c 'echo -n "my string" | sha512sum'
 --
 ```bash
 # Run cs fixer without having php installed on our host
-$ docker run -it --rm  \
+$ docker run --rm  \
 -v ~/Desktop/presentation-docker/cs-fixer/incomingTasks/:/wd \
 shouldbee/php-cs-fixer fix /wd/tasks
 ```
