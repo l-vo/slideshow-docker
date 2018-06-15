@@ -10,5 +10,5 @@ This presentation isn't a complete presentation about Docker. It's an introducti
 through some simple examples.
 
 Html slideshow is available here:
-* Locally: [dist/presentation.html](dist/presentation.html)
 * Online: https://l-vo.github.io/slideshow-docker/presentation.html 
+* Locally (after cloning repository): [docs/presentation.html](docs/presentation.html)
