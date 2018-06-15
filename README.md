@@ -9,4 +9,6 @@ You can also use it from a Docker container:
 This presentation isn't a complete presentation about Docker. It's an introduction for understanding the main concepts of Docker 
 through some simple examples.
 
-Html slideshow is available here: [dist/presentation.html](dist/presentation.html)
+Html slideshow is available here:
+* Locally: [dist/presentation.html](dist/presentation.html)
+* Online: https://l-vo.github.io/slideshow-docker/presentation.html 
